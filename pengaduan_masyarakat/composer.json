@@ -2,6 +2,7 @@
     "name": "vendor/package",
     "description": "A brief description of your project",
     "type": "project",
+    "license": "MIT",
     "require": {
         "php": "^7.4 || ^8.0",
         "monolog/monolog": "^2.0"
