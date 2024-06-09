@@ -11,6 +11,7 @@
   <!DOCTYPE html>
   <html>
     <head>
+	    
     	<title>Aplikasi Pengaduan masyarakat</title>
       <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
