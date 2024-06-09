@@ -19,6 +19,7 @@ jobs:
 
     - name: Validate composer.json and composer.lock
       run: composer validate --strict
+       working-directory: .pengaduan_masyarakat/composer.json  # Ubah sesuai dengan path yang benar
 
     - name: Cache Composer packages
       id: composer-cache
