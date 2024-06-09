@@ -8,6 +8,8 @@
 		<td>Tanggal Masuk</td>
 		<td>Tanggal Ditanggapi</td>
 		<td>Status</td>
+
+		
 	</tr>
 	<?php 
 		include '../conn/koneksi.php';
