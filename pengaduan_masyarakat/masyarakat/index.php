@@ -62,11 +62,8 @@
                   </div>
               </li>
               <li><a href="index.php?p=dashboard"><i class="material-icons">dashboard</i>Dashboard</a></li>
-              <li><a href="index.php?p=pengumuman"><i class="material-icons">dashboard</i>pengumuman</a></li>
               <li>
                   <div class="divider"></div>
-
-                  
               </li>
               <li><a class="waves-effect" href="../index.php?p=logout"><i class="material-icons">logout</i>Logout</a></li>
           </ul>
@@ -104,7 +101,6 @@
 			include_once 'more.php';
 		}
 	 ?>
-   
       </div>
 
 
